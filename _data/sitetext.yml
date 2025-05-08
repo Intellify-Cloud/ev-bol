@@ -183,7 +183,7 @@ team:
         role: "Owner | Bond Originator"
         image: assets/img/team/Charl Haman.jpg
         social:
-          - url: tel:072 192 4012
+          - url: tel:072 195 4012
             icon: fas fa-phone
           - url: mailto:boland@evogroup.co.za?subject=evo Boland Website Enquiry
             icon: fas fa-envelope
