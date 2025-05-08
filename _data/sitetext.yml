@@ -121,7 +121,7 @@ portfolio:
     closebutton: "Close"
     
 about:
-    title: "Meet Our Founder – Charl Haman"
+    title: "About"
     text2: "Charl Haman, the founder of evo Homeloans Boland, began his journey in the property industry as a Candidate Real Estate Agent. 
       <br><br>
       After becoming a fully qualified Professional Practitioner in Real Estate, he saw firsthand the heartbreak many buyers experience when their home loan applications are declined.
@@ -173,8 +173,8 @@ clients:
         logo: assets/img/clients/sentinal-homes.png
     
 team:
-    title: "Contact"
-    text: "We don't just secure home loans - we make your property dreams come true. As founder of evo Homeloans Boland, I'm personally committed to guiding you through every step with the care and expertise you deserve. - Charl Haman"
+    title: "The Team"
+    text: "As founder of evo Homeloans Boland, I'm personally committed to guiding you through every step with the care and expertise you deserve. - Charl Haman"
     # subtext: Text Below the Images, also Markdown is suppoted **Bold Text Allowed**
     section: team
     contact: 
