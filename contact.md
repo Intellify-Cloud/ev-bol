@@ -9,8 +9,8 @@ background: gray
     <div class="col-md text-center" style="max-width: 500px;">
       <h2 class="section-heading text-uppercase">Contact</h2>
       <h3>Charl Haman</h3>
-      <p>Call: <a href="tel:+27721924012">072 192 4012</a></p>
-      <p>WhatsApp: <a href="https://wa.me/27721924012" target="_blank">Message Charl</a></p>
+      <p>Call: <a href="tel:+27721954012">072 192 4012</a></p>
+      <p>WhatsApp: <a href="https://wa.me/27721954012" target="_blank">Message Charl</a></p>
       <p>Email: <a href="mailto:boland@evogroup.co.za?subject=Mail from Evo Website">boland@evogroup.co.za</a></p>
       <p></p>
       <p>Boland</p>
