@@ -1,0 +1,34 @@
+baseurl: ""
+
+title      : evo Boland - Home Loans Experts and Bond Origination in Boland Western Cape and nationwide.
+email      : bolandd@evogroup.co.za
+description: Achieve your property dreams with evo Homeloans Boland. Founded by Charl Haman, a qualified Real Estate Professional, we secure the best home loan deals through expert bond origination. After witnessing countless heartbreaks from declined applications, Charl partnered with evo Homeloans, part of South Africa's trusted Ooba brand, to guide buyers nationwide through the home loan process with care and expertise. Let our advanced systems and personal attention help make your homeownership journey successful.
+author     : E.Roux / P.Oosthuizen
+
+analytics:
+  google: G-XXX
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+webserver_headers:
+  - - Access-Control-Allow-Origin
+    - "*"
+  - - Access-Control-Allow-Methods
+    - GET, OPTIONS, HEAD
+
+logo:
+  path: /assets/img/logo/evo Home Loans Boland.jpg
+
+exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+
+group: evo Boland 
+
+company: evo Boland 
+
+url: https://evohomeloans.co.za
+
+address: Boland, Western Cape
+
