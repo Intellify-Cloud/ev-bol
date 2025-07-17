@@ -181,7 +181,7 @@ team:
     people:
       - name: "Charl Haman"
         role: "Owner | Bond Originator"
-        image: assets/img/team/Charl Haman.jpg
+        image: assets/img/team/Charl Haman-evo-Boland.jpg
         social:
           - url: tel:072 195 4012
             icon: fas fa-phone
@@ -193,7 +193,20 @@ team:
             icon: fab fa-facebook-f
           # - url: https://www.linkedin.com/in/bondapply
           #   icon: fab fa-linkedin-in
-
+      - name: "Lerato Mkhize"
+        role: "Bond Originator"
+        image: assets/img/team/Lerato Mkhize -evo-Boland-Pretoria-Central.jpg
+        social:
+          - url: tel:063 745 2383
+            icon: fas fa-phone
+          - url: mailto:lerato.mkhize@evogroup.co.za?subject=evo Boland Website Enquiry
+            icon: fas fa-envelope
+          - url: https://wa.me/+27637452383
+            icon: fab fa-whatsapp
+          - url: https://www.facebook.com/profile.php?id=61575230263178 
+            icon: fab fa-facebook-f
+          # - url: https://www.linkedin.com/in/bondapply
+          #   icon: fab fa-linkedin-in
 testimonials:
     title: "TESTIMONIALS"
     text: ""
