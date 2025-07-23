@@ -23,23 +23,26 @@ background: gray
       <h3>Lerato Mkhize</h3>
       <p>Call: <a href="tel:+27637452383">063 745 2383</a></p>
       <p>WhatsApp: <a href="https://wa.me/27637452383" target="_blank">Message Lerato</a></p>
-      <p>Email: <a href="mailto:boland@evogroup.co.za?subject=Mail from evo Boland Website">boland@evogroup.co.za</a></p>
+      <p>Email: <a href="mailto:lerato21mkhize@gmail.com?subject=Mail from evo Boland Website">lerato21mkhize@gmail.com</a></p>
       <p>Facebook: <a href="https://www.facebook.com/profile.php?id=61575230263178" target="_blank">Lerato Mkhize</a></p>
       <p>Pretoria Central, Pretoria</p>
     </div>
+    
     <div class="col-md-6 text-center mb-4" style="max-width: 500px;">
       <h3>Jill Brickles</h3>
       <p>Call: <a href="tel:+27641989756">064 198 9756</a></p>
       <p>WhatsApp: <a href="https://wa.me/27641989756" target="_blank">Message Jill</a></p>
-      <p>Email: <a href="mailto:boland@evogroup.co.za?subject=Mail from evo Boland Website">boland@evogroup.co.za</a></p>
+      <p>Email: <a href="mailto:jillobr@gmail.com?subject=Mail from evo Boland 
+      Website">jillobr@gmail.com</a></p>
       <p>Facebook: <a href="https://www.facebook.com/profile.php?id=61575230263178" target="_blank">Jill Brickles</a></p>
       <p>Sun Valley, Western Cape</p>
     </div>
+
     <div class="col-md-6 text-center mb-4" style="max-width: 500px;">
       <h3>Jacques le Roux</h3>
       <p>Call: <a href="tel:+27767906389">076 790 6389</a></p>
       <p>WhatsApp: <a href="https://wa.me/27767906389" target="_blank">Message Jacques</a></p>
-      <p>Email: <a href="mailto:boland@evogroup.co.za?subject=Mail from evo Boland Website">boland@evogroup.co.za</a></p>
+      <p>Email: <a href="lerouxjacques1975@gmail.com?subject=Mail from evo Boland Website">lerouxjacques1975@gmail.com </a></p>
       <p>Facebook: <a href="https://www.facebook.com/profile.php?id=61575230263178" target="_blank">Jacques le Roux</a></p>
       <p>Wellington, Western Cape</p>
     </div>
