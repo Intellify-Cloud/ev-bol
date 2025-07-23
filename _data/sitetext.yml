@@ -199,7 +199,7 @@ team:
         social:
           - url: tel:063 745 2383
             icon: fas fa-phone
-          - url: mailto:boland@evogroup.co.za?subject=evo Boland Website Enquiry
+          - url: mailto:lerato21mkhize@gmail.com?subject=evo Boland Website Enquiry
             icon: fas fa-envelope
           - url: https://wa.me/+27637452383
             icon: fab fa-whatsapp
@@ -211,12 +211,25 @@ team:
         social:
           - url: tel:064 198 9756
             icon: fas fa-phone
-          - url: mailto:boland@evogroup.co.za?subject=evo Boland Website Enquiry
+          - url: mailto:jillobr@gmail.com?subject=evo Boland Website Enquiry
             icon: fas fa-envelope
           - url: https://wa.me/+27641989756
             icon: fab fa-whatsapp
           - url: https://www.facebook.com/profile.php?id=61575230263178 
             icon: fab fa-facebook-f
+
+      - name: "Jacques le Roux"
+        role: "Trainee Bond Originator"
+        image: assets/img/team/Jacques-le-Roux-evo-Boland.jpg
+        social:
+          - url: tel:076 790 6389
+            icon: fas fa-phone
+          - url: mailto:lerouxjacques1975@gmail.com?subject=evo Boland Website Enquiry
+            icon: fas fa-envelope
+          - url: https://wa.me/+27767906389
+            icon: fab fa-whatsapp
+          - url: https://www.facebook.com/profile.php?id=61575230263178 
+            icon: fab fa-facebook-f            
 testimonials:
     title: "TESTIMONIALS"
     text: ""
